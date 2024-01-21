@@ -17,19 +17,19 @@ This repository contains Python code for a simple synchronization service (`Sync
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/SyncService.git
+   git clone https://github.com/shivamchaubey100/DevCom_PS2.git
    ```
 
 2. Navigate to the repository directory:
 
    ```bash
-   cd SyncService
+   cd DevCom_PS2
    ```
 
-3. Run the `main.py` file:
+3. Run the `final_solution.py` file:
 
    ```bash
-   python main.py
+   python3 final_solution.py
    ```
 
    This will execute the `testSyncing` function, simulating the interaction between 10 devices and the `SyncService`. The synchronization process will be demonstrated, and assertions will be made to ensure the correctness of the implementation.
