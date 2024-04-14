@@ -17,13 +17,13 @@ This repository contains Python code for a simple synchronization service (`Sync
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/shivamchaubey100/DevCom_PS2.git
+   git clone https://github.com/shivamchaubey100/SyncService.git
    ```
 
 2. Navigate to the repository directory:
 
    ```bash
-   cd DevCom_PS2
+   cd SyncService
    ```
 
 3. Run the `final_solution.py` file:
